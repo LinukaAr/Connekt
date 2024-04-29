@@ -45,6 +45,7 @@ The live chat application utilizes the WebSocket API to enable real-time, bi-dir
 #### Implementation Details
 
 The live chat application uses the WebSocket API provided by the Spring Boot framework for server-side communication. On the client side, WebSocket is implemented using JavaScript and the WebSocket API supported by modern web browsers.
+- Read more: [WebSocket Documentation](https://spring.io/guides/gs/messaging-stomp-websocket)
 
 ---
 ---
